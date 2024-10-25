@@ -1,1 +1,1 @@
-# BusinessProcessPlatform
+# Business Process Platform
